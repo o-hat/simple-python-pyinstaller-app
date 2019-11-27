@@ -12,5 +12,3 @@ docker run \
   -v "$HOME":/home \
   jenkinsci/blueocean
 ```
-
-7617be948652efe6d8cab506678092818821ac1e
